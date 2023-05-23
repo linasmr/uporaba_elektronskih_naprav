@@ -1,0 +1,35 @@
+body {color: #0a1f2f;
+background-color: #cca27f;
+font-family: Garamond;
+font-size: 25px;
+}
+header {background-color: #cca27f;
+color: #001338;
+text-align: center;
+padding: 30px; /* odmik od besedila*/
+}
+a {text-decoration: none; /*da link ne bo podčrtano */
+color: #001338;
+border-style: solid;
+	border-color:#0a1f2f;
+	border-width: 2px;
+	padding: 30px;
+}
+nav {
+	
+	background-color: #cca27f;
+	padding: 30px;
+	float: center;
+}
+section {background-color: #0a1f2f;
+	color: #ebe9e3;
+	padding: 30px;
+	float: center;
+	
+}
+footer {background-color: #0a1f2f;
+color: #ebe9e3;
+clear: both;
+text-align: center;
+padding: 30px;
+}
